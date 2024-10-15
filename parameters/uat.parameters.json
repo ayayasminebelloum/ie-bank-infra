@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "aya-dbserv-dev"
+            "value": "aya-dbserv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "aya-db-dev"
+            "value": "aya-db-uat"
         },
         "appServicePlanName": {
-            "value": "aya-asp-dev"
+            "value": "aya-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "aya-be-dev"
+            "value": "aya-be-uat"
         },
         "appServiceAppName": {
-            "value": "aya-fe-dev"
+            "value": "aya-fe-uat"
         },
         "location": {
             "value": "westeurope"

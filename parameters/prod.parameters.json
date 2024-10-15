@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "environmentType": {
-            "value": "nonprod"
+            "value": "prod"
         },
         "postgreSQLServerName": {
-            "value": "aya-dbserv-dev"
+            "value": "aya-dbserv-prod"
         },
         "postgreSQLDatabaseName": {
-            "value": "aya-db-dev"
+            "value": "aya-db-prod"
         },
         "appServicePlanName": {
-            "value": "aya-asp-dev"
+            "value": "aya-asp-prod"
         },
         "appServiceAPIAppName": {
-            "value": "aya-be-dev"
+            "value": "aya-be-prod"
         },
         "appServiceAppName": {
-            "value": "aya-fe-dev"
+            "value": "aya-fe-prod"
         },
         "location": {
             "value": "westeurope"
