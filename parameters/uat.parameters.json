@@ -6,7 +6,7 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "aya-dbserv-uat"
+            "value": "aya-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
             "value": "aya-db-uat"
@@ -21,7 +21,7 @@
             "value": "aya-fe-uat"
         },
         "location": {
-            "value": "westeurope"
+            "value": "North Europe"
         }
     }
 }

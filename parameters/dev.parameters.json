@@ -22,6 +22,27 @@
         },
         "location": {
             "value": "westeurope"
+        },
+        "appServiceAPIEnvVarENV": {
+            "value": "dev"
+        },
+        "appServiceAPIEnvVarDBHOST": {
+            "value": "aya-dbserv-dev.database.windows.net"
+        },
+        "appServiceAPIEnvVarDBNAME": {
+            "value": "aya-db-dev"
+        },
+        "appServiceAPIEnvVarDBPASS": {
+            "value": "YourSecurePasswordHere"
+        },
+        "appServiceAPIEnvVarDBUSER": {
+            "value": "dbuser"
+        },
+        "appServiceAPIDBHostFLASK_APP": {
+            "value": "app.py"
+        },
+        "appServiceAPIDBHostFLASK_DEBUG": {
+            "value": "True"
         }
     }
 }
